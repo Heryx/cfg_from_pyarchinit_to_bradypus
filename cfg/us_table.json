@@ -1,0 +1,83 @@
+[
+    {
+        "name": "id",
+        "label": "Id",
+        "type": "text",
+        "db_type": "INTEGER",
+        "readonly": "1",
+        "hide": "1"
+    },
+    {
+        "name": "creator",
+        "label": "Creator",
+        "type": "text",
+        "db_type": "INTEGER",
+        "readonly": "1",
+        "hide": "1"
+    },
+    {
+        "name": "id_sito",
+        "label": "id_sito",
+        "type": "text",
+        "db_type": "INTEGER",
+        "readonly": "1",
+        "hide": "1"
+    },
+    {
+        "name": "sito",
+        "label": "Sito",
+        "type": "text",
+        "db_type": "TEXT"
+    },
+    {
+        "name": "area",
+        "label": "Area",
+        "type": "text",
+        "db_type": "TEXT",
+        "max_length": "20"
+    },
+    {
+        "name": "us",
+        "label": "US",
+        "type": "text",
+        "db_type": "INTEGER"
+    },
+    {
+        "name": "d_stratigrafica",
+        "label": "Definizione stratigrafica",
+        "type": "text",
+        "db_type": "TEXT",
+        "max_length": "255"
+    },
+    {
+        "name": "d_interpretativa",
+        "label": "Definizione interpretativa",
+        "type": "text",
+        "db_type": "TEXT",
+        "max_length": "255"
+    },
+    {
+        "name": "descrizione",
+        "label": "Descrizione",
+        "type": "text",
+        "db_type": "TEXT"
+    },
+    {
+        "name": "rapporti",
+        "label": "Tipo di rapporto",
+        "type": "text",
+        "db_type": "TEXT"
+    },
+    {
+        "name": "rapporti2",
+        "label": "Rapp",
+        "type": "text",
+        "db_type": "TEXT"
+    },
+    {
+        "name": "unita_tipo",
+        "label": "Unità tipo",
+        "type": "text",
+        "db_type": "TEXT"
+    }
+]

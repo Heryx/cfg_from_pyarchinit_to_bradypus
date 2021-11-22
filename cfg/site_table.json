@@ -1,0 +1,71 @@
+[
+    {
+        "name": "id",
+        "label": "Id",
+        "type": "text",
+        "db_type": "INTEGER",
+        "readonly": "1",
+        "hide": "1"
+    },
+    {
+        "name": "creator",
+        "label": "Creator",
+        "type": "text",
+        "db_type": "INTEGER",
+        "readonly": "1",
+        "hide": "1"
+    },
+    {
+        "name": "id_sito",
+        "label": "id_sito",
+        "type": "text",
+        "db_type": "INTEGER",
+        "readonly": "1",
+        "hide": "1"
+    },
+    {
+        "name": "sito",
+        "label": "Sito",
+        "type": "text",
+        "db_type": "TEXT"
+    },
+    {
+        "name": "nazione",
+        "label": "Nazione",
+        "type": "text",
+        "db_type": "TEXT",
+        "max_length": "100"
+    },
+    {
+        "name": "regione",
+        "label": "Regione",
+        "type": "text",
+        "db_type": "TEXT",
+        "max_length": "100"
+    },
+    {
+        "name": "provincia",
+        "label": "Provincia",
+        "type": "text",
+        "db_type": "TEXT"
+    },
+    {
+        "name": "comune",
+        "label": "Comune",
+        "type": "text",
+        "db_type": "TEXT",
+        "max_length": "100"
+    },
+    {
+        "name": "descrizione",
+        "label": "Descrizione",
+        "type": "text",
+        "db_type": "TEXT"
+    },
+    {
+        "name": "definizione_sito",
+        "label": "Definizione sito",
+        "type": "text",
+        "db_type": "TEXT"
+    }
+]
